@@ -1,0 +1,10 @@
+Infrastructure
+Endpoint                                       Description
+
+Ubuntu 22.04                        Attacker endpoint that performs brute-force attacks. It’s required to have an SSH client installed on this endpoint.
+
+Windows 11                          Victim endpoint of RDP brute-force attacks. It’s required to enable RDP on this endpoint.
+
+Wazuh SIEM consists of two components : Wazuh Server and Wazuh Agent where Wazuh Server is the host machine Kalilinux machine:- Information_Security_Engineer of 8 gb memory and 60 gb of Hard disk space 
+with Network Adapter of Bridged (Automatic)
+and Agent are Kalilinux machine : Kali of 2 gb of memory and 10 gb of space 2. Windows agent of the local windows OS
